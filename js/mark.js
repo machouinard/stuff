@@ -1,0 +1,1 @@
+$('#fileupload').bind('fileuploadsubmit', function (e, data) {    var inputs = data.context.find(':input');    if (inputs.filter('[required][value=""]').first().focus().length) {        return false;    }    data.formData = inputs.serializeArray();});

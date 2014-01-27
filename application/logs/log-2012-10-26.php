@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-10-26 00:52:19 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 01:32:44 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 01:47:49 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 02:05:33 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 03:14:48 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:02:31 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:02:41 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:02:41 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:02:42 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:23:10 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 05:36:18 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 06:12:51 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 09:33:30 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 09:43:58 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 09:54:36 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 11:09:10 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 11:21:58 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 11:35:06 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 11:49:19 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 12:02:32 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-10-26 12:22:31 --> 404 Page Not Found --> images/exif_view

@@ -1,0 +1,376 @@
+/*
+    Document   : mine
+    Created on : Feb 3, 2012, 2:10:51 AM
+    Author     : 8823
+    Description:
+        Purpose of the stylesheet follows.
+*/
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
+root {
+    display: block;
+}
+
+/*================*/
+/*   =My CSS      */
+/*                */
+/*================*/
+body{
+    font-family: 'Tahoma', 'Helvetica', 'Arial', 'sans-serif';
+    background-color: whitesmoke;
+}
+
+header{
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    -moz-border-radius: 0 0 4px 4px;
+    -webkit-border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+#container{
+    background: #e3e3e3;
+    -moz-border-radius: 0 0 8px 8px;
+    -webkit-border-radius: 0 0 8px 8px;
+    border-radius: 0 0 8px 8px;
+    -moz-box-shadow: -1px 1px 2px #292929;
+    -webkit-box-shadow: -1px 1px 2px #292929;
+    box-shadow: -1px 1px 2px #292929;
+}
+
+#title{
+    font-family: Inconsolata, Times New Roman, sans-serif;
+    text-align: right;
+    font-size: 3em;
+    border-bottom: 1px solid slategray;
+    margin-bottom: 10px;
+
+}
+
+#page_heading{
+    text-align: center;
+    color: slategray;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+header.grid_16 h1{
+    text-transform: uppercase;
+    text-align: right;
+    border-bottom: 1px solid slategray;
+    font-weight: bolder;
+
+}
+
+form label{
+   display:block;
+font-weight:bold;
+text-align:right;
+width:140px;
+float:left;
+}
+
+form input{
+    float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 1px #aacfe4;
+width:200px;
+margin:2px 0 20px 10px;
+}
+
+
+
+
+footer{
+    margin-bottom: 5px;
+}
+
+
+div .footer2{
+   margin-left: 0;
+   margin-top: 10px;
+   text-align: center;
+   background: whitesmoke;
+   -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+}
+#menu{
+    padding:0;
+    margin: 0;
+    margin-left: 45px;
+    background-color: whitesmoke;
+    font-family:Arial;
+    font-size:1em;
+
+}
+
+        #menu li{
+            float:left;
+            list-style: none;
+
+            padding:0 20px;
+                color:#292929;
+                text-decoration:none;
+
+        }
+
+
+
+            #menu li:hover{
+                background-color: #e3e3e3;
+                text-decoration: none;
+                text-transform: uppercase;
+                -moz-border-radius: 4px;
+                -webkit-border-radius: 4px;
+                border-radius: 4px;
+                font-size: 1em;
+            }
+
+
+
+
+
+#main h2{
+    color: darkslategray;
+    text-align: center;
+}
+
+img{
+   -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.red {
+    color: #cb202a;
+}
+
+p.message, p.error {
+    font: normal 1em Helvetica, Arial, sans-serif;
+    padding: 0 3px;
+}
+
+p.message {
+    border: 1px solid #995522;
+    background-color: #e1d8b9;
+    color: black;
+}
+
+p.error {
+    border: 1px solid #193742;
+    background-color: #cb202a;
+    color: white;
+}
+
+code{
+    font-family: Inconsolata, Times New Roman, sans-serif;
+    font-size: 12px;
+    display: block;
+    background: white;
+    border: 1px solid #292929;
+    color: green;
+    padding: 2px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+
+icode{
+    font-family: Inconsolata, Times New Roman, sans-serif;
+    font-size: 12px;
+    background: white;
+    border: 1px solid #292929;
+    color: green;
+
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+
+
+
+
+#msg{
+    color: navy;
+    font-size: 1.3em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+table tbody th{
+    color: darkslategray;
+    padding: 4px;
+}
+
+table tbody td{
+    color: slategray;
+    padding: 4px;
+}
+
+#resize_grid{
+    margin-bottom: 10px;
+}
+
+.color1{
+    background: yellow;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}
+.color2{
+    background: green;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}
+.color3{
+    background: red;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}
+.color4{
+    background: blue;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    color: black;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}
+.color5{
+    background: #F5F5F5;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    color: black;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}
+#blue{
+    background: blue;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+#red{
+    background: red;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+#green{
+    background: green;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+#yellow{
+    background: yellow;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    color: black;
+}
+
+.new{
+    color: black;
+    margin-bottom: 10px;
+}
+.new p{
+    padding: 10px;
+    line-height: 1.5em;
+}
+.alex p {
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: center;
+    color: darkslategray;
+}
+.mark p{
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: center;
+    color: darkslategray;
+}
+div.turning{
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+
+ul.clean_ul li{
+    list-style: none;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+ul.clean_ul{
+    border: 1px solid slategray;
+    margin-bottom: 10px;
+    moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+    padding: 0 5px 5px 20px;
+    background-color: #F5F5F5;
+}
+
+h1 h2 h3 h4 h5{
+    margin-bottom: 10px;
+}
+
+.transparent {
+	/* Required for IE 5, 6, 7 */
+	/* ...or something to trigger hasLayout, like zoom: 1; */
+	width: 100%;
+
+	/* Theoretically for IE 8 & 9 (more valid) */
+	/* ...but not required as filter works too */
+	/* should come BEFORE filter */
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=50);
+
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.5;
+
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.5;
+
+	/* Modern!
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.5;
+}
+
+#gmap{
+    -moz-box-shadow: 1px 1px 2px #292929;
+    -webkit-box-shadow: 1px 1px 2px #292929;
+    box-shadow: 1px 1px 2px #292929;
+}

@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-09-09 00:04:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 00:47:54 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 01:04:57 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 01:16:42 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 01:34:49 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 01:48:23 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 02:04:46 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 02:24:51 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 02:34:49 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 02:54:49 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 03:24:49 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 03:36:53 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 04:06:37 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 04:24:50 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 04:37:51 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 04:54:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 05:09:26 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 05:24:45 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 05:44:47 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 05:55:42 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 06:14:47 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 06:24:54 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 06:55:07 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 07:06:40 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 07:24:48 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 07:36:52 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 08:05:24 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 08:34:53 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 09:34:09 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 10:34:51 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 10:45:11 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 11:15:45 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 11:47:43 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 12:14:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 12:24:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 12:36:40 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 12:59:53 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 13:01:57 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 13:16:25 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 13:37:15 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 14:08:56 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 14:24:44 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-09 15:51:23 --> 404 Page Not Found --> utility/images
+ERROR - 2013-09-09 19:19:12 --> Severity: Warning  --> opendir(images/sample/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory /home3/machoui/public_html/stuff/system/helpers/file_helper.php 180
+ERROR - 2013-09-09 19:19:12 --> Severity: Warning  --> opendir(images/sample/) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory /home3/machoui/public_html/stuff/system/helpers/file_helper.php 232

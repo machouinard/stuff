@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-09-06 20:00:40 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2013-09-06 20:00:58 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2013-09-06 20:00:59 --> 404 Page Not Found --> exif/images
+ERROR - 2013-09-06 20:01:29 --> 404 Page Not Found --> apple-touch-icon-precomposed.png
+ERROR - 2013-09-06 21:50:10 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 21:50:11 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 21:50:12 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 21:51:52 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 21:54:54 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:02:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:03:03 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:03:05 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:03:56 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:04:55 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:05:05 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:05:22 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:10:50 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:10:52 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:18:59 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2013-09-06 22:18:59 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:19:00 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:25:28 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 22:28:48 --> 404 Page Not Found --> images/exif_view
+ERROR - 2013-09-06 23:37:10 --> 404 Page Not Found --> images/exif_view

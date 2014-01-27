@@ -1,0 +1,21 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-11-15 00:04:05 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:04:06 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:15:01 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:22:48 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:33:30 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:42:39 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:43:04 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 00:52:12 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:03:07 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:12:17 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:22:30 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:33:03 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:33:04 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:42:13 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 01:51:59 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 02:02:01 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 02:42:13 --> 404 Page Not Found --> images/exif_utility
+ERROR - 2012-11-15 05:54:04 --> 404 Page Not Found --> images/sample
+ERROR - 2012-11-15 05:54:05 --> 404 Page Not Found --> imgs

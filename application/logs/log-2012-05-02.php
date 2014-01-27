@@ -1,0 +1,19 @@
+Cleared at 11:39:47pm Wednesday May 2nd
+ERROR - 2012-05-02 23:40:34 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:40:34 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:40:34 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731
+ERROR - 2012-05-02 23:42:17 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:42:17 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:42:17 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731
+ERROR - 2012-05-02 23:48:51 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:48:51 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:48:51 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731
+ERROR - 2012-05-02 23:52:02 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:52:02 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:52:02 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731
+ERROR - 2012-05-02 23:52:44 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:52:44 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:52:44 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731
+ERROR - 2012-05-02 23:53:35 --> Severity: Notice  --> Undefined index: ProfileDescription /home/machoui/public_html/stuff/application/controllers/exif.php 725
+ERROR - 2012-05-02 23:53:35 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 728
+ERROR - 2012-05-02 23:53:35 --> Severity: Notice  --> Undefined index: DeviceModel /home/machoui/public_html/stuff/application/controllers/exif.php 731

@@ -1,0 +1,27 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-06-08 00:02:34 --> 404 Page Not Found --> images/exif_view
+ERROR - 2012-06-08 00:41:47 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:47 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:49 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:49 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:49 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:49 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:53 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:53 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:53 --> 404 Page Not Found --> tal
+ERROR - 2012-06-08 00:41:54 --> 404 Page Not Found --> tal

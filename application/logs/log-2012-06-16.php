@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2012-06-16 00:09:45 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:47 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:47 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:48 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:50 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:51 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:52 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:53 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:55 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:55 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:55 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:56 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:56 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:56 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:57 --> 404 Page Not Found --> tal
+ERROR - 2012-06-16 00:09:57 --> 404 Page Not Found --> tal
