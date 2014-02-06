@@ -13,6 +13,7 @@ if(!$this->ion_auth->logged_in()): ?>
 <!--    <li><a href="/auth/create_account" >Create Account</a></li>
     <li><a href="/auth/forgot_password" >Forgot Password</a></li>-->
     <li><a href="/exif" >EXIF Viewer</a></li>
+    <li><a href='/webcam' />Webcam</a></li>
     <li><a href='/utility/regex' >Regex</a></li>
     <li><a href="/email" >Email</a></li>
 </ul>

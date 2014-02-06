@@ -9,14 +9,14 @@ class Gmap extends CI_Controller{
 
     function index(){
         $data = array(
-            'title' => 'Google Maps Test Page',
-            'content' => '/gmap/gmap_view',
+            'title' => 'Google Maps Geocoding',
+            'content' => 'gmap/gmap_view',
             'page_title' => '$location->map_it()',
             'msg' => 'Using Google Maps API v3',
             'css1' => '/css/mac_gmap.css',
-            'js1' => 'http://maps.googleapis.com/maps/api/js?key=AIzaSyBvz9_5jMMJlchz-G1HQ6RtD6M_F8_oxKY&sensor=false',
+            // 'js1' => 'http://maps.googleapis.com/maps/api/js?sensor=false',
         );
-        $this->load->view('page_guest', $data);
+        $this->load->view('page_mac_gmap', $data);
         }
 
 

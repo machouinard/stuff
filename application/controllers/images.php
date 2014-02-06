@@ -19,13 +19,13 @@ class Images extends CI_Controller {
 
 	public function index() {
 		$data = array(
-					'title' => 'Image Display',
-						'content' => 'display/gallery',
-						'page_title' => '$images->display()',
-						'page_heading' => 'Test Page for displaying images',
-						'msg' => 'trying to figure out best way to display images',
-				);
-				$this->load->view('page', $data);
+			'title' => 'Image Display',
+			'content' => 'display/gallery',
+			'page_title' => '$images->display()',
+			'page_heading' => 'Test Page for displaying images',
+			'msg' => 'trying to figure out best way to display images',
+			);
+		$this->load->view('page_guest', $data);
 	}
 
 }

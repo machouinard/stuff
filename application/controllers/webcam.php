@@ -20,10 +20,10 @@ class Webcam extends CI_Controller{
         $lat = NULL;
         $lon = NULL;
         if($this->uri->segment(3) !== 'shit'){
-        $lat = $this->uri->segment(3);
+            $lat = $this->uri->segment(3);
         }
         if($this->uri->segment(4) !== 'shit'){
-        $lon = $this->uri->segment(4);
+            $lon = $this->uri->segment(4);
         }
         $words = $this->uri->segment(5);
         $comment = urldecode($words);
@@ -32,31 +32,31 @@ class Webcam extends CI_Controller{
         //Get user info
         // $user = $this->ion_auth->get_user();
         // $user_id = $user->id;
-        $year = date("Y");
-        $month = date("m");
-        $orig_dir = 'images/original/'.$year.'/'.$month.'/';
-        $upload_dir = 'images/resized/'.$year.'/'.$month.'/';
-        $thumb_dir = 'images/thumbs/'.$year.'/'.$month.'/';
-        $base_name = date("YmdGis");
-        $file_name = $base_name.'.jpg';
-        $thumb_name = $base_name.'_thumb.jpg';
+        $year        = date("Y");
+        $month       = date("m");
+        $orig_dir    = 'images/original/'.$year.'/'.$month.'/';
+        $upload_dir  = 'images/resized/'.$year.'/'.$month.'/';
+        $thumb_dir   = 'images/thumbs/'.$year.'/'.$month.'/';
+        $base_name   = date("YmdGis");
+        $file_name   = $base_name.'.jpg';
+        $thumb_name  = $base_name.'_thumb.jpg';
         $preview_dir = 'images/preview/';
-        $dir_data = array(
-                  'orig_dir' => $orig_dir,
-                  'upload_dir' => $upload_dir,
-                  'thumb_dir' => $thumb_dir,
-                  'preview_dir' => $preview_dir,
-                );
-                build_dir_structure($dir_data);
+        $dir_data    = array(
+          'orig_dir'    => $orig_dir,
+          'upload_dir'  => $upload_dir,
+          'thumb_dir'   => $thumb_dir,
+          'preview_dir' => $preview_dir,
+          );
+        build_dir_structure($dir_data);
 
 
 
-        $jpeg_data = file_get_contents('php://input');
-        $orig_loc = $orig_dir.$file_name;
+        $jpeg_data    = file_get_contents('php://input');
+        $orig_loc     = $orig_dir.$file_name;
         $preview_file = $preview_dir.$file_name;
 
-        $saved_file = $upload_dir.$file_name;
-        $result = file_put_contents( $saved_file, $jpeg_data );
+        $saved_file   = $upload_dir.$file_name;
+        $result       = file_put_contents( $saved_file, $jpeg_data );
 
         $this->image_moo->load($saved_file)->resize(270,270)->save($preview_file)->resize_crop(125,125)->save($thumb_dir.$thumb_name);
 

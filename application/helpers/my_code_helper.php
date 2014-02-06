@@ -73,6 +73,7 @@ function get_exif_hl($image){
 
 function get_exif_php($image){
     $exif = eval('return ' . `~/perl5/bin/exiftool -php $image`);
+    // $exif = `~/perl5/bin/exiftool -php $image`;
     return $exif[0];
 }
 
